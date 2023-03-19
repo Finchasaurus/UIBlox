@@ -1,0 +1,14 @@
+{
+  "name": "UIBlox",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "UIBlox": {
+        "$path": "src"
+      },
+      "lib": {
+        "$path": "lib"
+      }
+    }
+  }
+}
